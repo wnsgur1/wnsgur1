@@ -1,4 +1,5 @@
 [포트폴리오](https://www.notion.so/fe2b005c9d914b8c88fabf18168c5175?pvs=4)
+[백준](https://www.acmicpc.net/user/gkswnsgur)
 
 
 <a href="https://github.com/devxb/gitanimals">
